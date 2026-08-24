@@ -5,7 +5,8 @@ Date: 23/08/2026
 
 #include <stdio.h>
 int main() {
-    int n, product = 1; 
+    int n;
+    long long product = 1; 
 
     printf("Enter The Value Of n: ");
     scanf("%d", &n);
